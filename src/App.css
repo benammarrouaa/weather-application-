@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  flex-wrap: wrap;
+ }
+.input-city{
+  width: 500px;
+  box-sizing: border-box;
+  margin: auto auto;
+  padding: 20px 5px;
+}
+
+.App-header {
+  background-image: url('https://wallpaperaccess.com/full/1540016.jpg');
+  min-height: 100vh;
+  display: flex;
+  opacity: 1;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);}
+
+
+
